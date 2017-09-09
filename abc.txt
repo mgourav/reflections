@@ -1,2 +1,1 @@
-abc
-abcl abc
+This is easy-mode
